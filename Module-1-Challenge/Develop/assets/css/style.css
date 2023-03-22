@@ -96,16 +96,8 @@ p {
     margin-left: 25px;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
+.benefit-lead,
+.benefit-brand,
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
