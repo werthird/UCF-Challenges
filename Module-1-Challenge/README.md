@@ -1,8 +1,5 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
-
-
-
 ## User Story
 
 ```
@@ -39,9 +36,8 @@ To fulfill my clients requests for a cleaner code base.
 
 ## Grading
 
-```
 To view and grade my assignment, it may be viewd in my Github repository.
-```
+
 
 ## Mock-Up
 
@@ -50,6 +46,5 @@ The following image shows the web application's appearance and functionality:
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
 
 ## Credit
--------------------------------------------------
 The amazing teachers at teacher assistants at UFC.
 The students who all offered their help in the Slack Community and in our Discord chat. 
