@@ -36,7 +36,7 @@ To fulfill my clients requests for a cleaner code base.
 
 ## Grading
 
-To view and grade my assignment, it may be viewd in my Github repository.
+Link to [Deployed Site](https://werthird.github.io/UCF-Challenges/)!
 
 
 ## Mock-Up
